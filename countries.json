@@ -34,7 +34,6 @@
     {"name":"Mexico","code":"MX","languages":["spa"],"flag":"🇲🇽"},
     {"name":"Bangladesh","code":"BD","languages":["ben"],"flag":"🇧🇩"},
     {"name":"Ivory Coast","code":"CI","languages":["fra"],"flag":"🇨🇮"},
-    {"name":"Arab Emirates","code":"AE","languages":["ara"],"flag":"🇦🇪"},
     {"name":"Canada","code":"CA","languages":["eng","fra"],"flag":"🇨🇦"},
     {"name":"Senegal","code":"SN","languages":["fra"],"flag":"🇸🇳"},
     {"name":"Kosovo","code":"XK","languages":["sqi","srp"],"flag":"🇽🇰"},
