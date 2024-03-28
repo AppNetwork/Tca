@@ -6,7 +6,6 @@
     {"name":"Saudi Arabia","code":"SA","languages":["ara"],"flag":"🇸🇦"},
     {"name":"Spain","code":"ES","languages":["spa"],"flag":"🇪🇸"},
     {"name":"Egypt","code":"EG","languages":["ara"],"flag":"🇪🇬"},
-    {"name":"Iraq","code":"IQ","languages":["ara","arc","ckb"],"flag":"🇮🇶"},
     {"name":"Italy","code":"IT","languages":["ita"],"flag":"🇮🇹"},
     {"name":"Albania","code":"AL","languages":["sqi"],"flag":"🇦🇱"},
     {"name":"Australia","code":"AU","languages":["eng"],"flag":"🇦🇺"},
