@@ -1,9 +1,7 @@
 [
-    
     {"name":"Algeria","code":"DZ","languages":["ara"],"flag":"🇩🇿"},
     {"name":"Turkey","code":"TR","languages":["tur"],"flag":"🇹🇷"},
     {"name":"Morocco","code":"MA","languages":["ara","zgh"],"flag":"🇲🇦"},
-    {"name":"Brazil","code":"BR","languages":["por"],"flag":"🇧🇷"},
     {"name":"France","code":"FR","languages":["fra"],"flag":"🇫🇷"},
     {"name":"Saudi Arabia","code":"SA","languages":["ara"],"flag":"🇸🇦"},
     {"name":"Spain","code":"ES","languages":["spa"],"flag":"🇪🇸"},
@@ -48,7 +46,6 @@
     {"name":"Argentina","code":"AR","languages":["grn","spa"],"flag":"🇦🇷"},
     {"name":"Malaysia","code":"MY","languages":["eng","msa"],"flag":"🇲🇾"},
     {"name":"Sweden","code":"SE","languages":["swe"],"flag":"🇸🇪"},
-    {"name":"Switzerland","code":"CH","languages":["deu","fra","ita"],"flag":"🇨🇭"},
     {"name":"Syria","code":"SY","languages":["ara"],"flag":"🇸🇾"},
     {"name":"Colombia","code":"CO","languages":["spa"],"flag":"🇨🇴"},
     {"name":"Afghanistan","code":"AF","languages":["prs","pus","tuk"],"flag":"🇦🇫"},
@@ -154,5 +151,4 @@
     {"name":"Trinidad and Tobago","code":"TT","languages":["eng"],"flag":"🇹🇹"},
     {"name":"Turkmenistan","code":"TM","languages":["rus","tuk"],"flag":"🇹🇲"},
     {"name":"Uruguay","code":"UY","languages":["spa"],"flag":"🇺🇾"}
-
 ]
